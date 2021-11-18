@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Quicksand:wght@300;400;500&display=swap');
+
+.titulo{
+    color: #FFEBCD;
+    font: 20px Quicksand;
+}
+
+.subtitulo {
+    color: black;
+    font: 18px Quicksand;
+    background-color: #DEB887;
+    padding-inline: 553px;
+}
+
+.paragrafo {
+    color: #FFEBCD;
+    font: 40px Quicksand;
+}
+
+.autora {
+    color: black;
+    font: 10px Quicksand;
+}
